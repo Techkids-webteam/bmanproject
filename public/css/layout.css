@@ -1,0 +1,22 @@
+.indeximg {
+	background: url('/cms/img/anhbia.jpg') no-repeat center fixed;
+	height:600px;
+	background-size: cover;
+}
+
+.background_markus_color {
+	background-color: #f5f5f5;
+	padding-top: 10px;
+}
+
+.item {
+	background-color: #f5f5f5;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.syllabus {
+	margin-top: 40px;
+
+}
